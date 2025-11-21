@@ -1,0 +1,29 @@
+=== RESUMEN DE TRABAJADORES CON DERECHO A COBRO ===
+Total: 2
+- asd3 (Código: 2323) | Depto: asd21 | Pago total: 1800.0 CUP
+El trabajador no tiene proyectos sin certificar.
+-----------------------
+- asdasd (Código: 22) | Depto: asd | Pago total: 1333.0 CUP
+Proyectos NO certificados:
+- Proyecto 2 | Horas trabajadas: 10.0 | Pago por horas trabajadas: 430.0 CUP | Horas Extra: 0.0 | Pago por horas extra: 0.0 CUP
+-----------------------
+Total Barco Extranjero: 3133.0 CUP
+
+=== RESUMEN DE TRABAJADORES SIN DERECHO A COBRO ===
+Total: 1
+- asdasd2 (Código: 23231) | Depto: aaaa
+--- Proyectos ---
+El trabajador no tiene ningún proyecto asociado.
+
+--- Estado de pago ---
+El trabajador NO tiene derecho a cobro
+Motivos:
+- No tiene proyectos certificados
+- Está dado de baja
+
+=== RESUMEN GENERAL ===
+Cantidad total de trabajadores: 3
+Monto total del personal D: 0.0 CUP
+Monto total del personal DA: 3133.0 CUP
+Total de horas trabajadas de los proyectos certificados: 51.0h
+Monto total de los proyectos certificados: 3133.0 CUP
