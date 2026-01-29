@@ -16,9 +16,6 @@ Sistema de gestión empresarial para administrar el pago de trabajadores, calcul
 - ✅ **Validaciones** de datos y combinaciones tarifarias
 
 ## 🏗️ Arquitectura del Proyecto
-
-## 🏗️ Estructura del Proyecto
-
 | Directorio/Archivo | Tipo | Descripción |
 |-------------------|------|-------------|
 | **src/** | Directorio | Código fuente principal |
