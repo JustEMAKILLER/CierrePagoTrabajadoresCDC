@@ -17,26 +17,26 @@ Sistema de gestión empresarial para administrar el pago de trabajadores, calcul
 
 ## 🏗️ Arquitectura del Proyecto
 
-sistemapagotrabajadorescdc/
-│
-├── src/
-│   ├── controller/
-│   │   └── SistemaPagoTrabajadoresCDC.java
-│   ├── model/
-│   │   ├── Trabajador.java
-│   │   └── Proyecto.java
-│   ├── utils/
-│   │   ├── GestorPersistencia.java
-│   │   └── RegistroCambios.java
-│   └── viewer/
-│       ├── GUI.java                 # Interfaz gráfica
-│
-├── data/
-│   ├── trabajadores.dat            # Datos serializados
-│   └── historial_cambios.log       # Log de auditoría
-│
-├── Resumen.txt                     # Informes generados
-└── README.md
+## 🏗️ Estructura del Proyecto
+
+| Directorio/Archivo | Tipo | Descripción |
+|-------------------|------|-------------|
+| **src/** | Directorio | Código fuente principal |
+| ├── controller/ | Directorio | Controladores del sistema |
+| │   └── SistemaPagoTrabajadoresCDC.java | Java | Controlador principal |
+| ├── model/ | Directorio | Modelos de datos |
+| │   ├── Trabajador.java | Java | Modelo de trabajador |
+| │   └── Proyecto.java | Java | Modelo de proyecto |
+| ├── utils/ | Directorio | Utilidades |
+| │   ├── GestorPersistencia.java | Java | Gestión de almacenamiento |
+| │   └── RegistroCambios.java | Java | Log de auditoría |
+| └── viewer/ | Directorio | Interfaces de usuario |
+|     ├── GUI.java | Java | Interfaz gráfica |
+| **data/** | Directorio | Datos y logs |
+| ├── trabajadores.dat | Datos | Base de datos serializada |
+| └── historial_cambios.log | Log | Registro de cambios |
+| **Resumen.txt** | Texto | Informes generados |
+| **README.md** | Markdown | Documentación |
 
 ## 📊 Modelo de Datos
 
